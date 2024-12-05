@@ -9,12 +9,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/Ambreen-Zubari/Ambreen-Zubari/assets/animation-coding.gif" alt="Coding Animation" width="500"/>
-</p>
-
----
-
 ### 👩‍💻 **About Me**
 - 🔥 Passionate **Full-Stack Developer** with over **4 years** of experience.
 - 💻 Expert in **Angular**, **React**, **Ionic**, **Node.js**, **Next.js**, and **.NET**.
