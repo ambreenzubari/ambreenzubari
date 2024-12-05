@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ambreen Zubari</h1>
 <h3 align="center">🚀 Full-Stack Software Engineer | 💡 Problem Solver | 🌟 Passionate Coder</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full-Stack+Software+Engineer;Freelancer+%7C+Tech+Enthusiast;Angular+%7C+React+%7C+Ionic+%7C+Node.js;Azure+%7C+Firebase+%7C+Zoom+API;Let's+Build+Something+Awesome+Together!" alt="Typing Animation" />
+</p>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/75533263/246829967-coding.gif" alt="Coding Animation" width="400"/>
