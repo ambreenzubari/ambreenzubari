@@ -10,8 +10,7 @@
 ---
 
 ### 👩‍💻 **About Me**
-- 🔥 Passionate **Full-Stack Developer** with over **4 years** of experience.
-- 💻 Expert in **Angular**, **React**, **Ionic**, **Node.js**, **Next.js**, and **.NET**.
+- 🔥 Passionate Full-Stack Developer dedicated to crafting exceptional web and mobile applications! 🚀- 💻 Expert in **Angular**, **React**, **Ionic**, **Node.js**, **Next.js**, and **.NET**.
 - ☁️ Skilled in **Azure**, **Firebase**, **WebRTC**, **Zoom API**, **Twilio**, and more.
 - 🌍 I deliver **scalable, user-friendly, and secure solutions** for various industries like **e-commerce**, **healthcare**, and **event management**.
 - 🎓 Holder of a **Bachelor's in Computer Science**.
