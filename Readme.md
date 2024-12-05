@@ -1,3 +1,5 @@
+<img src= "Navy Blue Geometric Technology LinkedIn Banner (1).png"/>
+
 <h1 align="center">Hi 👋, I'm Ambreen Zubari</h1>
 <h3 align="center">🚀 Full-Stack Software Engineer | 💡 Problem Solver | 🌟 Passionate Coder</h3>
 
