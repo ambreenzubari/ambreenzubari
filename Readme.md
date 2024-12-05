@@ -31,14 +31,12 @@
 </p>
 
 ---
-
-### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ambreenzubari&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ambreenzubari&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&token=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" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ambreenzubari&theme=github-dark-blue" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambreenzubari&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambreenzubari&layout=compact&theme=github_dark&token=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" alt="Top Languages" />
 </p>
 
 ---
