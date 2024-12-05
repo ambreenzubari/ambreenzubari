@@ -39,18 +39,6 @@
 
 ---
 
-### 🌟 **Featured Projects**
-#### 🌐 **[Fimsta](https://fimsta.com)**
-- Built a complete **user onboarding workflow** and real-time **email notifications system**.
-- Developed a seamless admin panel with advanced **company management tools**.
-
-#### 💬 **Real-Time Chat App**
-- Designed a **dark-themed** UI with **real-time messaging** using React, Firebase, and WebRTC.
-- Implemented advanced **emoji support** and a responsive **mobile-friendly interface**.
-
-#### 🛒 **E-Commerce Platform**
-- Built a scalable **e-commerce platform** with Next.js and Node.js.
-- Integrated **payment gateways** and **dynamic product search** for better user experience.
 
 ---
 
